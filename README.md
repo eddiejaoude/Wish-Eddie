@@ -49,5 +49,10 @@ Syntax:
 |[Vedant Andhale](https://twitter.com/VedantAndhale)| Eddie, We want to thank you from the bottom of our hearts for going that extra mile every time to make opensource more inclusive. Our wishes are always with you. Happy Birthday!|
 |[Dharmik Hingu](https://twitter.com/frontendilia)|A very happy birthday GitHub star Eddie🎉🎉|
 |[Lakshya Bhasin](https://twitter.com/LakshyaBhasin7)|Happy birthday to you Eddie 🥳🎈🎉🎉.Stay Healthy and keep smiling❤️, you are such an inspiration for me. And yeah this is my first PR 😊|
+|[Aseem](https://twitter.com/aseemstwt)|Happy Birthday Eddie 🥳🎉, Thanks for motivating everyday to try out open source. I am really enjoying it & the community you're running is very friendly and awesome. Hope you have a great day and life ahead! Thankyou!|
+|[Amit](https://twitter.com/Amit_T18)| Happy Birthday, Eddie! Thanks for all your efforts and wish you a wonderful year 💙|
+|[Tushar Gaurav](https://twitter.com/tushgaurav)| Happy Birthday, Eddie!, Appreciate the effort you put in your videos. Keep up the good work man!|
+|[Abbey](https://twitter.com/abbeywilltech)|Happy birthday, Eddie! Thank you for bringing me in the open source world! Wishing you good health :) |
+|[Soham Ratnaparkhi](https://twitter.com/SohamR_7113)| Very Happy Birthday, Eddie!. Wishing you a long and healthy life! Its because of you that I started open-source and this is my 501th contribution. Thanks a lot for what you are doing for the wonderful open-source community.|
 |[Soham Ratnaparkhi](https://twitter.com/SohamR_7113)| Very Happy Birthday, Eddie!. Wishing you a long and healthy life! Its because of you that I started open-source and this is my 501th contribution. Thanks a lot for what you are doing for the wonderful open-source community.|
 |||
