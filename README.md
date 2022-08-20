@@ -59,4 +59,5 @@ Syntax:
 |[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish You Happy birthday Eddie. Keep Rocking,Keep Aspiring, I hope we meet soon .|
 |[Olanetsoft](https://twitter.com/olanetsoft)| Happy Birthday Eddie 🥳🥁 Thanks for all you do, we love you 💙💙💙|
 |[Aayush Sharma](https://twitter.com/SuperAayush)| Happy Birthday to the person from whom I learned many good Open-Source practices, May you have a long and happy life ❤️🍾🎂|
+|[Neeraj](https://twitter.com/neeraJramachaN2)| Happy Birthday, Opensource king 👑. Hope you can motivate more people like me|
 |||
