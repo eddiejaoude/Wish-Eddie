@@ -51,9 +51,5 @@ Syntax:
 |[Abhishek R](https://twitter.com/Abhishe70336609|Wishing you a very happy birthday ,thankyou for everything u have done for the things u have done for the community wish you good health and happiness have a great day Eddie|
 |[Lakshya Bhasin](https://twitter.com/LakshyaBhasin7)|Happy birthday to you Eddie 🥳🎈🎉🎉.Stay Healthy and keep smiling❤️, you are such an inspiration for me. And yeah this is my first PR 😊|
 |[Aseem](https://twitter.com/aseemstwt)|Happy Birthday Eddie 🥳🎉, Thanks for motivating everyday to try out open source. I am really enjoying it & the community you're running is very friendly and awesome. Hope you have a great day and life ahead! Thankyou!|
-|[Amit](https://twitter.com/Amit_T18)| Happy Birthday, Eddie! Thanks for all your efforts and wish you a wonderful year 💙|
-|[Tushar Gaurav](https://twitter.com/tushgaurav)| Happy Birthday, Eddie!, Appreciate the effort you put in your videos. Keep up the good work man!|
-|[Abbey](https://twitter.com/abbeywilltech)|Happy birthday, Eddie! Thank you for bringing me in the open source world! Wishing you good health :) |
-|[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish you Happy Birthday, Eddie!, Keep Rocking, Keep Aspiring, I hope we meet soon in real life 
-|[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
+|[zayidmohamedy](https://twitter.com/zayidmohamedy)|Many Many Happy Returns of the Day Eddie 🥳🎉, Eddie! Thanks for motivating us to start open source journey 😍|
 |||
