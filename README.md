@@ -29,5 +29,9 @@ Syntax:
 |[Adetoye](https://twitter.com/adetoye_dev)| Happy Birthday, Eddie! Thanks for your amazing contributions to the tech community. Wishing you and amazing year ahead!!|
 |[vedanshi prajapati](https://twitter.com/vedanshi555)| Happy Birthday, Eddie! wish you a great life with happiness and good health|
 |[Om Sarraf](https://twitter.com/itsOmSarraf_)| Happy birthday, Eddie, I started open source contribution with help of your community, enjoy day :) 🥳🎈|
+|[Olamilekan](https://twitter.com/codewithola)| Best wishes on your birthday – may you have many, many more.!!|
+|[Bony Sureliya](https://github.com/bonysureliya)| Happy birthday Eddie Wishing for your health and lot more Open Source.|
+|[Engin Diri](https://twitter.com/_ediri)| Alles Gute zum Geburtstag Eddie - Happy Birthday Eddie!|
+|[Aniket Dubey](https://twitter.com/AniketD94252873)|Happy birthday to you Eddie 🎉🎉 , You're awesome and thanks for always motivating to start open source.I'm glad to be a part of your wonderful community 😊|
 |[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
 |||
