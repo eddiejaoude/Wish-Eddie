@@ -21,6 +21,7 @@ Syntax:
 |[Aditya Joshi](https://twitter.com/aditya__exe) | Happy Birthday Eddie! Loads of love❤️|
 |[Pushkaraj Kulkarni](https://twitter.com/pushkaraj2007)|Happy Birthday Eddie! Have a great year ahead, and Thanks for motivating us to start open source journey.|
 |[Sreekar Shodhan](https://twitter.com/ShodhanSreekar)|Happy Birthday Eddie. I wish all your wishes come true and achieve your goals. Stay Healthy - Stay Happy|
-|[Kalyan Vurugonda](https://twitter.com/VurugondaKalyan)| Happy Birthday Eddie! 🥳🎉 
+|[Kalyan Vurugonda](https://twitter.com/VurugondaKalyan)| Happy Birthday Eddie! 🥳🎉
+|[Aayush Deshmukh](https://twitter.com/aayushdeshmukh)} Happy Birthday Eddie!! 🎉 aka Mr. Opensource!! You make my twitter timeline amazing. |
 |||
 
