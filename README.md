@@ -25,4 +25,5 @@ Syntax:
 |[Arun Kumar](https://twitter.com/ak_arun___)| Happy Birthday Eddie 🎈 ,Thank you for motivating to start open source|
 |[Dev jain](https://twitter.com/Devjtwt786)| Happy birthday open source's heart ❤️ Eddie joude.u r awesome ,wishing u a amazing years ahead 🥳🥳😄|
 |[Aayush Deshmukh](https://twitter.com/aayushdeshmukh)| Happy Birthday Eddie!! 🎉 aka Mr. Opensource!! You make my twitter timeline amazing. |
+|[Kiran Satya Raj](https://twitter.com/jksrtwt)| Happy birthday, Eddie. May be source be with you.|
 |||
