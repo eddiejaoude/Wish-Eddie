@@ -1,4 +1,3 @@
-:x
 ![Blue Modern Happy Birthday (Banner (Landscape)) (1)](https://user-images.githubusercontent.com/51878265/185732946-b607a9e0-4aff-4956-8cb5-d5b81e66521f.png)
 
 
