@@ -3,7 +3,9 @@
 
 ### Contribution
 > Add a row at the last of the table with your name and a birthday message.
+
 Syntax: 
+
 ```md
 |[Octocat](https://twitter.com/octocat)| Happy Birthday, Eddie!|
 ```
