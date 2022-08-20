@@ -68,5 +68,14 @@ Syntax:
 |[Mazhar Ansari](https://twitter.com/Intrestingboy5)|Happy Birthday, Eddie!!, Thanks for helping by creating EddieHub Community 🥳🎈🎉🎉 |
 |[Ali Fahed](https://twitter.com/AliFahed_)|Happy Birthday Eddie, Wishing you a year that's as special and awesome as you are 🎉❤️|
 |[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
+|[Obiabo](https://twitter.com/obiabo_immanuel)|Happy birthday to you Eddie❤️! Long life and prosperity , More wins , Thank you for the enlighning us in the eco system of Open Source|
+|[Shaggyyy❤️](https://twitter.com/shaggyyy03)|Happiest Birthday Eddie!🎉🎂 Wish you the very best for your journey. Hopefully will meet soon. Love From India🇮🇳.|
+|[Tamal](https://twitter.com/mrTamall)| A very Happy Birthday, Eddie!🎉 You made me fall in love with awesome communities around the world, you are really awesome !|
+|[Carlie Hope](https://twitter.com/carliemaria28)| Happy Birthday, Eddie! Best wishes. 😆|
+|[Sreekar Tammana](https://twitter.com/Sreekartammana)| Happy Birthday, Eddie!💖Thank you for introducing me to open source world🤩|
+|[Shekhar Ranjan](https://twitter.com/MontygSharma)| Happy Birthday Eddie 🎂! Thank you for Open Source awareness 🥰. Wishing you a blessed year and a wonderful day 💫 |
+|[Atharva Ikhar](https://twitter.com/iatharva_)| Happy Birthday, Eddie🥳🎉! Thanks a lot for all the suggestions you have given me, and all the efforts which you put into your videos, Have a great birthday!|
+|[Krish Gupta](https://twitter.com/krshkodes)|Happy Birthday Eddie! 🎂 Wishing you a healthy life with lots of sleep, you do a lot for us, this is probably the year you should take care of your self too :) Happy birthday once again, have a great life ahead 🚀!|
 |[Anas Khan](https://twitter.com/anaskhan_28)| Happiest Birthday, Eddie!🥳🥳 I wish you a great journey in open source and always help others to get in 😎.|
 |||
+
