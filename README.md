@@ -24,4 +24,5 @@ Syntax:
 |[Shubhangi](https://twitter.com/mshubhangi12)| Happy Birthday, Eddie! On your birthday, On your birthday, I wish you a lifetime of good health so that you can continue to inspire us and guide us during tumultuous times!! :heart_eyes: :balloon: :confetti_ball: :tada::sparkles:|
 |[Arun Kumar](https://twitter.com/ak_arun___)| Happy Birthday Eddie 🎈 ,Thank you for motivating to start open source|
 |[Dev jain](https://twitter.com/Devjtwt786)| Happy birthday open source's heart ❤️ Eddie joude.u r awesome ,wishing u a amazing years ahead 🥳🥳😄
+|[vedanshi prajapati](https://twitter.com/vedanshi555)| Happy Birthday, Eddie! wish you a great life with happiness and good health|
 |||
