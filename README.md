@@ -45,4 +45,5 @@ Syntax:
 |[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Contribution was on hacktoberfest repo. I dont know How to express my gratitude. thanks for having such an amazing community😊.|
 |[Rajan Chauhan](https://twitter.com/rajan_chauhan_)| Happy Birthday, Eddie!|
 |[Hemant](https://twitter.com/hemantwasthere)|Happy Birthday Eddie. I wish all your wishes come true and achieve your goals. Stay Healthy - Stay Happy|
+|[ShorunTech](https://twitter.com/shoruntech)|Happy birthday,Eddie,I can never forget how you added value to my life through open source,more achievements boss 🥳🎉.|
 |||
