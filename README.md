@@ -20,5 +20,7 @@ Syntax:
 |[Aarya Chopkar](https://twitter.com/ChopkarAarya)| Happy birthday. Keep inspiring, continue your amazing work.|
 |[Aditya Joshi](https://twitter.com/aditya__exe) | Happy Birthday Eddie! Loads of love❤️|
 |[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)| Happy birthday man. Your an Inspiration to many, have a amazing day filled with PR's 🎉 .|
+|[Pushkaraj Kulkarni](https://twitter.com/pushkaraj2007)|Happy Birthday Eddie! Have a great year ahead, and Thanks for motivating us to start open source journey.|
+|[Sreekar Shodhan](https://twitter.com/ShodhanSreekar)|Happy Birthday Eddie. I wish all your wishes come true and achieve your goals. Stay Healthy - Stay Happy|
 |||
 
