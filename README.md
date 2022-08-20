@@ -81,4 +81,5 @@ Syntax:
 |[Vaibhav Malhotra](https://github.com/vaibhavmalhotra002)| Happy Birthday Eddie 🎈🎂 ,Thank you for motivating us to start contributiong to open source|
 |[Raj Shukla](https://twitter.com/rajshuk49989182)| Happy Birthday, Eddie! Wish you a very very happy birthday brother may you get all you want and thanks for being so open to help all of us newbies of open source|
 |[Md. Fahim Bin Amin](https://twitter.com/Fahim_FBA)| Happy Birthday, Eddie! Wishing you all the best, always!|
+|[Pratik Singh](https://twitter.com/kitarp29)|Happy Birthday,Eddie jaoude🔥 The person who got me started with Open-Source.Have a great day Eddie!!|
 |||
