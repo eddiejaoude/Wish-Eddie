@@ -2,7 +2,7 @@
 
 
 ### Contribution
-> Add a row below with your name and a birthday message.
+> Add a row at the last of the table with your name and a birthday message.
 Syntax: 
 ```md
 |[Octocat](https://twitter.com/octocat)| Happy Birthday, Eddie!|
@@ -33,7 +33,6 @@ Syntax:
 |[Bony Sureliya](https://github.com/bonysureliya)| Happy birthday Eddie Wishing for your health and lot more Open Source.|
 |[Engin Diri](https://twitter.com/_ediri)| Alles Gute zum Geburtstag Eddie - Happy Birthday Eddie!|
 |[Aniket Dubey](https://twitter.com/AniketD94252873)|Happy birthday to you Eddie 🎉🎉 , You're awesome and thanks for always motivating to start open source.I'm glad to be a part of your wonderful community 😊|
-|[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
 |[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
 |[Anushka Raj](https://twitter.com/AnushCodergirl)|Happy Birthday, You Shining Star Eddie Jaoude🥳 Have a magical birthday!✨|
 |[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)|Happy Birthday man, You are a inspiration to many. Have amazing day full of PR's🥳🎉|
@@ -59,4 +58,5 @@ Syntax:
 |[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
 |[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish You Happy birthday Eddie. Keep Rocking,Keep Aspiring, I hope we meet soon .|
 |[Olanetsoft](https://twitter.com/olanetsoft)| Happy Birthday Eddie 🥳🥁 Thanks for all you do, we love you 💙💙💙|
+|[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
 |||
