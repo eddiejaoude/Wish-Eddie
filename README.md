@@ -42,5 +42,21 @@ Syntax:
 |[Aditya Painuli](https://twitter.com/aditya_painuli)| Happy birthday open source hero wish you a good health any looking forward for more contrubtion🙌🎉🎉|
 |[Shivendu Kumar](https://twitter.com/shivendu_kr_jha)| Many Many Happy Returns of the Day Eddie 🥳🎉! Wish you have a great health & career ahead!!✨🧡💓|
 |[Chandraprakash Darji](http://twitter.com/chandra_7852)| Happy Birthday, Eddie! You are the inspiration for Open Source, Remote Work, and freelancing. Thanks. |
+|[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Contribution was on hacktoberfest repo. I dont know How to express my gratitude. thanks for having such an amazing community😊.|
+|[Rajan Chauhan](https://twitter.com/rajan_chauhan_)| Happy Birthday, Eddie!|
+|[Hemant](https://twitter.com/hemantwasthere)|Happy Birthday Eddie. I wish all your wishes come true and achieve your goals. Stay Healthy - Stay Happy|
+|[ShorunTech](https://twitter.com/shoruntech)|Happy birthday,Eddie,I can never forget how you added value to my life through open source,more achievements boss 🥳🎉.|
+|[Vedant Andhale](https://twitter.com/VedantAndhale)| Eddie, We want to thank you from the bottom of our hearts for going that extra mile every time to make opensource more inclusive. Our wishes are always with you. Happy Birthday!|
+|[Dharmik Hingu](https://twitter.com/frontendilia)|A very happy birthday GitHub star Eddie🎉🎉|
+|[Abhishek R](https://twitter.com/Abhishe70336609|Wishing you a very happy birthday ,thankyou for everything u have done for the things u have done for the community wish you good health and happiness have a great day Eddie|
+|[Lakshya Bhasin](https://twitter.com/LakshyaBhasin7)|Happy birthday to you Eddie 🥳🎈🎉🎉.Stay Healthy and keep smiling❤️, you are such an inspiration for me. And yeah this is my first PR 😊|
+|[Aseem](https://twitter.com/aseemstwt)|Happy Birthday Eddie 🥳🎉, Thanks for motivating everyday to try out open source. I am really enjoying it & the community you're running is very friendly and awesome. Hope you have a great day and life ahead! Thankyou!|
+|[Amit](https://twitter.com/Amit_T18)| Happy Birthday, Eddie! Thanks for all your efforts and wish you a wonderful year 💙|
+|[Tushar Gaurav](https://twitter.com/tushgaurav)| Happy Birthday, Eddie!, Appreciate the effort you put in your videos. Keep up the good work man!|
+|[Abbey](https://twitter.com/abbeywilltech)|Happy birthday, Eddie! Thank you for bringing me in the open source world! Wishing you good health :) |
+|[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish you Happy Birthday, Eddie!, Keep Rocking, Keep Aspiring, I hope we meet soon in real life 
+|[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
+|[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish You Happy birthday Eddie. Keep Rocking,Keep Aspiring, I hope we meet soon .|
+|[Olanetsoft](https://twitter.com/olanetsoft)| Happy Birthday Eddie 🥳🥁 Thanks for all you do, we love you 💙💙💙|
 |[Aayush Sharma](https://twitter.com/SuperAayush)| Happy Birthday to the person from whom I learned many good Open-Source practices, May you have a long and happy life ❤️🍾🎂|
 |||
