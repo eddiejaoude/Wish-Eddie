@@ -83,5 +83,5 @@ Syntax:
 |[Md. Fahim Bin Amin](https://twitter.com/Fahim_FBA)| Happy Birthday, Eddie! Wishing you all the best, always!|
 |[Pratik Singh](https://twitter.com/kitarp29)|Happy Birthday,Eddie jaoude🔥 The person who got me started with Open-Source.Have a great day Eddie!!|
 |[Aparna Soneja](https://twitter.com/AparnaSoneja)| Happy birthday to Open Source king & my birthday twin, Eddie.You & your community are super supportive. Wishing you a wonderful year, may all your wishes come true.|
-
+|[Anant Luthra](https://twitter.com/anant_luthra_)|Happy Birthday, Eddie Jaoude, you are the person through whom I got to know about open sourse and it's importance and benifits. Keep up the good work ❤️ .|
 |||
