@@ -37,5 +37,14 @@ Syntax:
 |[Anushka Raj](https://twitter.com/AnushCodergirl)|Happy Birthday, You Shining Star Eddie Jaoude🥳 Have a magical birthday!✨|
 |[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)|Happy Birthday man, You are a inspiration to many. Have amazing day full of PR's🥳🎉|
 |[Henit Chobisa](https://twitter.com/henit_chobisa)|Wishing you a very very happy birthday Eddie, I really appreaciate the effort you put in motivating an d guiding people like me towards open source!! Thank You!|
+|[Saad](https://twitter.com/SaadTypes)| Happy Birthday, Eddie!|
+|[Nonso Andrew](https://twitter.com/nonso_andy)| Happy Birthday, Eddie!|
+|[Aditya Painuli](https://twitter.com/aditya_painuli)| Happy birthday open source hero wish you a good health any looking forward for more contrubtion🙌🎉🎉|
+|[Shivendu Kumar](https://twitter.com/shivendu_kr_jha)| Many Many Happy Returns of the Day Eddie 🥳🎉! Wish you have a great health & career ahead!!✨🧡💓|
+|[Chandraprakash Darji](http://twitter.com/chandra_7852)| Happy Birthday, Eddie! You are the inspiration for Open Source, Remote Work, and freelancing. Thanks. |
+|[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Contribution was on hacktoberfest repo. I dont know How to express my gratitude. thanks for having such an amazing community😊.|
+|[Rajan Chauhan](https://twitter.com/rajan_chauhan_)| Happy Birthday, Eddie!|
+|[Hemant](https://twitter.com/hemantwasthere)|Happy Birthday Eddie. I wish all your wishes come true and achieve your goals. Stay Healthy - Stay Happy|
+|[ShorunTech](https://twitter.com/shoruntech)|Happy birthday,Eddie,I can never forget how you added value to my life through open source,more achievements boss 🥳🎉.|
 |[Vedant Andhale](https://twitter.com/VedantAndhale)| Eddie, We want to thank you from the bottom of our hearts for going that extra mile every time to make opensource more inclusive. Our wishes are always with you. Happy Birthday!|
 |||
