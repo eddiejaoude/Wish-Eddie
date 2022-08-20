@@ -78,5 +78,6 @@ Syntax:
 |[Krish Gupta](https://twitter.com/krshkodes)|Happy Birthday Eddie! 🎂 Wishing you a healthy life with lots of sleep, you do a lot for us, this is probably the year you should take care of your self too :) Happy birthday once again, have a great life ahead 🚀!|
 |[Anas Khan](https://twitter.com/anaskhan_28)| Happiest Birthday, Eddie!🥳🥳 I wish you a great journey in open source and always help others to get in 😎.|
 |[Krishna Agarwal](https://twitter.com/DMKrishnaA)| Happy Birthday Eddie 🥳, Thanks a lot for helping us being better and I hope you get successful and Bless you always 🙏🏻.|
+|[Vaibhav Malhotra](https://github.com/vaibhavmalhotra002)| Happy Birthday Eddie 🎈🎂 ,Thank you for motivating us to start contributiong to open source|
 |||
 
