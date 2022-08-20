@@ -57,4 +57,5 @@ Syntax:
 |[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish you Happy Birthday, Eddie!, Keep Rocking, Keep Aspiring, I hope we meet soon in real life 
 |[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
 |[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish You Happy birthday Eddie. Keep Rocking,Keep Aspiring, I hope we meet soon .|
+|[Olanetsoft](https://twitter.com/olanetsoft)| Happy Birthday Eddie 🥳🥁 Thanks for all you do, we love you 💙💙💙|
 |||
