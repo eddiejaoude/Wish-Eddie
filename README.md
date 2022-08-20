@@ -37,5 +37,4 @@ Syntax:
 |[Anushka Raj](https://twitter.com/AnushCodergirl)|Happy Birthday, You Shining Star Eddie Jaoude🥳 Have a magical birthday!✨|
 |[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)|Happy Birthday man, You are a inspiration to many. Have amazing day full of PR's🥳🎉|
 |[Henit Chobisa](https://twitter.com/henit_chobisa)|Wishing you a very very happy birthday Eddie, I really appreaciate the effort you put in motivating an d guiding people like me towards open source!! Thank You!|
-|[Saad](https://twitter.com/SaadTypes)| Happy Birthday, Eddie!|
-|||
+|[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
