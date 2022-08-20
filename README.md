@@ -86,4 +86,4 @@ Syntax:
 |[Anant Luthra](https://twitter.com/anant_luthra_)|Happy Birthday, Eddie Jaoude, you are the person through whom I got to know about open sourse and it's importance and benifits. Keep up the good work ❤️ .|
 |[Ruchita](https://twitter.com/_ruchita1010)| Happy Birthday Eddie 🎉🥳 Thank you for all your efforts, wish you abundant happiness and good health ✨😄|
 |[Asmit Malakannawar](https://twitter.com/Asmit_2952)| Many Many Happy Returns of the Day Eddie. Thank you all the Open Source guidance. May God bless you 😇 Have a great day!|
-|||
+|[Victor Eke](https://twitter.com/victorekea)| Eddie the open sourcerer! Wishing you a memorable happy birthday, good health, and lots of love to you and your family. 💥|
