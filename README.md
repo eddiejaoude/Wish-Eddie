@@ -73,5 +73,6 @@ Syntax:
 |[Tamal](https://twitter.com/mrTamall)| A very Happy Birthday, Eddie!🎉 You made me fall in love with awesome communities around the world, you are really awesome !|
 |[Carlie Hope](https://twitter.com/carliemaria28)| Happy Birthday, Eddie! Best wishes. 😆|
 |[Sreekar Tammana](https://twitter.com/Sreekartammana)| Happy Birthday, Eddie!💖Thank you for introducing me to open source world🤩|
+|[Shekhar Ranjan](https://twitter.com/MontygSharma)| Happy Birthday Eddie 🎂! Thank you for Open Source awareness 🥰. Wishing you a blessed year and a wonderful day 💫 |
 |||
 
