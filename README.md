@@ -63,4 +63,5 @@ Syntax:
 |[Narayan](https://twitter.com/narayan954)| Happy Birthday from the community, Eddie!🥳🎉|
 |[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
 |[Soham Ratnaparkhi](https://twitter.com/SohamR_7113)| Very Happy Birthday, Eddie!. Wishing you a long and healthy life! Its because of you that I started open-source and this is my 501th contribution. Thanks a lot for what you are doing for the wonderful open-source community.|
+|[Mazhar Ansari](https://twitter.com/Intrestingboy5)|Happy Birthday, Eddie!!, Thanks for helping by creating EddieHub Community 🥳🎈🎉🎉 |
 |||
