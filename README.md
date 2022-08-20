@@ -44,9 +44,9 @@ Syntax:
 |[Chandraprakash Darji](http://twitter.com/chandra_7852)| Happy Birthday, Eddie! You are the inspiration for Open Source, Remote Work, and freelancing. Thanks. |
 |[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Contribution was on hacktoberfest repo. I dont know How to express my gratitude. thanks for having such an amazing community😊.|
 |[Rajan Chauhan](https://twitter.com/rajan_chauhan_)| Happy Birthday, Eddie!|
-|[Narayan](https://twitter.com/narayan954)| Happy Birthday from the community, Eddie!🥳🎉|
 |[Hemant](https://twitter.com/hemantwasthere)|Happy Birthday Eddie. I wish all your wishes come true and achieve your goals. Stay Healthy - Stay Happy|
 |[ShorunTech](https://twitter.com/shoruntech)|Happy birthday,Eddie,I can never forget how you added value to my life through open source,more achievements boss 🥳🎉.|
 |[Vedant Andhale](https://twitter.com/VedantAndhale)| Eddie, We want to thank you from the bottom of our hearts for going that extra mile every time to make opensource more inclusive. Our wishes are always with you. Happy Birthday!|
 |[Dharmik Hingu](https://twitter.com/frontendilia)|A very happy birthday GitHub star Eddie🎉🎉|
+|[Narayan](https://twitter.com/narayan954)| Happy Birthday from the community, Eddie!🥳🎉|
 |||
