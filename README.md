@@ -22,5 +22,5 @@ Syntax:
 |[Sreekar Shodhan](https://twitter.com/ShodhanSreekar)|Happy Birthday Eddie. I wish all your wishes come true and achieve your goals. Stay Healthy - Stay Happy|
 |[Kalyan Vurugonda](https://twitter.com/VurugondaKalyan)| Happy Birthday Eddie! 🥳🎉|
 |[Shubhangi](https://twitter.com/mshubhangi12)| Happy Birthday, Eddie! On your birthday, On your birthday, I wish you a lifetime of good health so that you can continue to inspire us and guide us during tumultuous times!! :heart_eyes: :balloon: :confetti_ball: :tada::sparkles:
-|||
 |[Kiran Satya Raj](https://twitter.com/jksrtwt)| Happy birthday, Eddie. May be source be with you.|
+|||
