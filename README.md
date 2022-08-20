@@ -49,4 +49,5 @@ Syntax:
 |[Vedant Andhale](https://twitter.com/VedantAndhale)| Eddie, We want to thank you from the bottom of our hearts for going that extra mile every time to make opensource more inclusive. Our wishes are always with you. Happy Birthday!|
 |[Dharmik Hingu](https://twitter.com/frontendilia)|A very happy birthday GitHub star Eddie🎉🎉|
 |[Abhishek R](https://twitter.com/Abhishe70336609|Wishing you a very happy birthday ,thankyou for everything u have done for the things u have done for the community wish you good health and happiness have a great day Eddie|
+|[Lakshya Bhasin](https://twitter.com/LakshyaBhasin7)|Happy birthday to you Eddie 🥳🎈🎉🎉.Stay Healthy and keep smiling❤️, you are such an inspiration for me. And yeah this is my first PR 😊|
 |||
