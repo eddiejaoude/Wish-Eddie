@@ -38,3 +38,4 @@ Syntax:
 |[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)|Happy Birthday man, You are a inspiration to many. Have amazing day full of PR's🥳🎉|
 |[Henit Chobisa](https://twitter.com/henit_chobisa)|Wishing you a very very happy birthday Eddie, I really appreaciate the effort you put in motivating an d guiding people like me towards open source!! Thank You!|
 |||
+|[Rajan Chauhan](https://twitter.com/rajan_chauhan_)| Happy Birthday, Eddie!|
