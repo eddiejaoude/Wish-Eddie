@@ -14,7 +14,6 @@ Syntax:
 |[Kartik Gajjar](https://twitter.com/Kartikt2twt)| Happy Birthday Eddie..Lots of lovee |
 |[Dunsin](https://twitter.com/DunsinWebDev)|Happy Birthday Eddie, have a great and wonderful day|
 |[Pranshu Kumar Agrawal](https://twitter.com/pkknowsnothing)| Happiest birthday Eddie Sir. May all your wishes come true.|
-|[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
 |[Krupali Trivedi](https://twitter.com/chai_really)|Happy Birthday Eddie! Thank you for the awesome community. Wishing happy happy years ahead!|
 |[Aarya Chopkar](https://twitter.com/ChopkarAarya)| Happy birthday. Keep inspiring, continue your amazing work.|
 |[Ali Reza](https://twitter.com/webDeveloper83)|Happy Birthday Eddie! Wishing you a long life with happiness and prosperity.|
@@ -30,4 +29,5 @@ Syntax:
 |[Adetoye](https://twitter.com/adetoye_dev)| Happy Birthday, Eddie! Thanks for your amazing contributions to the tech community. Wishing you and amazing year ahead!!|
 |[vedanshi prajapati](https://twitter.com/vedanshi555)| Happy Birthday, Eddie! wish you a great life with happiness and good health|
 |[Om Sarraf](https://twitter.com/itsOmSarraf_)| Happy birthday, Eddie, I started open source contribution with help of your community, enjoy day :) 🥳🎈|
+|[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
 |||
