@@ -48,7 +48,7 @@ Syntax:
 |[ShorunTech](https://twitter.com/shoruntech)|Happy birthday,Eddie,I can never forget how you added value to my life through open source,more achievements boss 🥳🎉.|
 |[Vedant Andhale](https://twitter.com/VedantAndhale)| Eddie, We want to thank you from the bottom of our hearts for going that extra mile every time to make opensource more inclusive. Our wishes are always with you. Happy Birthday!|
 |[Dharmik Hingu](https://twitter.com/frontendilia)|A very happy birthday GitHub star Eddie🎉🎉|
-|[Abhishek R](https://twitter.com/Abhishe70336609|Wishing you a very happy birthday ,thankyou for everything u have done for the things u have done for the community wish you good health and happiness have a great day Eddie|
+|[Abhishek R](https://twitter.com/Abhishe70336609)|Wishing you a very happy birthday ,thankyou for everything u have done for the things u have done for the community wish you good health and happiness have a great day Eddie|
 |[Lakshya Bhasin](https://twitter.com/LakshyaBhasin7)|Happy birthday to you Eddie 🥳🎈🎉🎉.Stay Healthy and keep smiling❤️, you are such an inspiration for me. And yeah this is my first PR 😊|
 |[Aseem](https://twitter.com/aseemstwt)|Happy Birthday Eddie 🥳🎉, Thanks for motivating everyday to try out open source. I am really enjoying it & the community you're running is very friendly and awesome. Hope you have a great day and life ahead! Thankyou!|
 |[Amit](https://twitter.com/Amit_T18)| Happy Birthday, Eddie! Thanks for all your efforts and wish you a wonderful year 💙|
@@ -62,5 +62,7 @@ Syntax:
 |[Neeraj](https://twitter.com/neeraJramachaN2)| Happy Birthday, Opensource king 👑. Hope you can motivate more people like me|
 |[Narayan](https://twitter.com/narayan954)| Happy Birthday from the community, Eddie!🥳🎉|
 |[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
+|[Soham Ratnaparkhi](https://twitter.com/SohamR_7113)| Very Happy Birthday, Eddie!. Wishing you a long and healthy life! Its because of you that I started open-source and this is my 501th contribution. Thanks a lot for what you are doing for the wonderful open-source community.|
+|[Mazhar Ansari](https://twitter.com/Intrestingboy5)|Happy Birthday, Eddie!!, Thanks for helping by creating EddieHub Community 🥳🎈🎉🎉 |
 |[Ali Fahed](https://twitter.com/AliFahed_)|Happy Birthday Eddie, Wishing you a year that's as special and awesome as you are 🎉❤️|
 |||
