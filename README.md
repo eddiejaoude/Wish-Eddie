@@ -68,4 +68,5 @@ Syntax:
 |[Mazhar Ansari](https://twitter.com/Intrestingboy5)|Happy Birthday, Eddie!!, Thanks for helping by creating EddieHub Community 🥳🎈🎉🎉 |
 |[Ali Fahed](https://twitter.com/AliFahed_)|Happy Birthday Eddie, Wishing you a year that's as special and awesome as you are 🎉❤️|
 |[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
+|[Krish Gupta](https://twitter.com/krshkodes)|Happy Birthday Eddie! 🎂 Wishing you a healthy life with lots of sleep, you do a lot for us, this is probably the year you should take care of your self too :) Happy birthday once again, have a great life ahead 🚀!|
 |||
