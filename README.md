@@ -30,3 +30,11 @@ Syntax:
 |[vedanshi prajapati](https://twitter.com/vedanshi555)| Happy Birthday, Eddie! wish you a great life with happiness and good health|
 |[Om Sarraf](https://twitter.com/itsOmSarraf_)| Happy birthday, Eddie, I started open source contribution with help of your community, enjoy day :) 🥳🎈|
 |[ShorunTech](https://twitter.com/shoruntech)|Happy birthday,Eddie,I can never forget how you added value to my life through open source,more achievements boss 🥳🎉.|
+|[Olamilekan](https://twitter.com/codewithola)| Best wishes on your birthday – may you have many, many more.!!|
+|[Bony Sureliya](https://github.com/bonysureliya)| Happy birthday Eddie Wishing for your health and lot more Open Source.|
+|[Engin Diri](https://twitter.com/_ediri)| Alles Gute zum Geburtstag Eddie - Happy Birthday Eddie!|
+|[Aniket Dubey](https://twitter.com/AniketD94252873)|Happy birthday to you Eddie 🎉🎉 , You're awesome and thanks for always motivating to start open source.I'm glad to be a part of your wonderful community 😊|
+|[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
+|[Anushka Raj](https://twitter.com/AnushCodergirl)|Happy Birthday, You Shining Star Eddie Jaoude🥳 Have a magical birthday!✨|
+|[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)|Happy Birthday man, You are a inspiration to many. Have amazing day full of PR's🥳🎉|
+|[Henit Chobisa](https://twitter.com/henit_chobisa)|Wishing you a very very happy birthday Eddie, I really appreaciate the effort you put in motivating an d guiding people like me towards open source!! Thank You!|
