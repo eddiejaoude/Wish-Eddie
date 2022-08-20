@@ -12,5 +12,6 @@ Syntax:
 | Name | Message |
 |-------|-------|
 |[Pradumna Saraf](https://twitter.com/pradumna_saraf)| Happy birthday. Wishing for your health and a lot more travel.|
+|[Kartik Gajjar](https://twitter.com/Kartikt2twt)| Happy Birthday Eddie..Lots of lovee |
 |[Aarya Chopkar](https://twitter.com/ChopkarAarya)| Happy birthday. Keep inspiring, continue your amazing work.|
 |||
