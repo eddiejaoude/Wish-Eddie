@@ -61,4 +61,5 @@ Syntax:
 |[Aayush Sharma](https://twitter.com/SuperAayush)| Happy Birthday to the person from whom I learned many good Open-Source practices, May you have a long and happy life ❤️🍾🎂|
 |[Neeraj](https://twitter.com/neeraJramachaN2)| Happy Birthday, Opensource king 👑. Hope you can motivate more people like me|
 |[Narayan](https://twitter.com/narayan954)| Happy Birthday from the community, Eddie!🥳🎉|
+|[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
 |||
