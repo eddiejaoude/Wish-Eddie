@@ -18,6 +18,6 @@ Syntax:
 |[Krupali Trivedi](https://twitter.com/chai_really)|Happy Birthday Eddie! Thank you for the awesome community. Wishing a happy happy years ahead!|
 |[Aarya Chopkar](https://twitter.com/ChopkarAarya)| Happy birthday. Keep inspiring, continue your amazing work.|
 |[Aditya Joshi](https://twitter.com/aditya__exe) | Happy Birthday Eddie! Loads of love❤️|
-|[Arun Kumar](https://twitter.com/ak_arun___)| Happy Birthday Edie 🎈 ,Thank you for motivating to start open source|
+|[Arun Kumar](https://twitter.com/ak_arun___)| Happy Birthday Eddie 🎈 ,Thank you for motivating to start open source|
 |||
 
