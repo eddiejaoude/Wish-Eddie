@@ -70,4 +70,6 @@ Syntax:
 |[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
 |[Obiabo](https://twitter.com/obiabo_immanuel)|Happy birthday to you Eddie❤️! Long life and prosperity , More wins , Thank you for the enlighning us in the eco system of Open Source|
 |[Shaggyyy❤️](https://twitter.com/shaggyyy03)|Happiest Birthday Eddie!🎉🎂 Wish you the very best for your journey. Hopefully will meet soon. Love From India🇮🇳.|
+|[Tamal](https://twitter.com/mrTamall)| A very Happy Birthday, Eddie!🎉 You made me fall in love with awesome communities around the world, you are really awesome !|
 |||
+
