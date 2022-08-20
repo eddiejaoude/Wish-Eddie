@@ -72,5 +72,6 @@ Syntax:
 |[Shaggyyy❤️](https://twitter.com/shaggyyy03)|Happiest Birthday Eddie!🎉🎂 Wish you the very best for your journey. Hopefully will meet soon. Love From India🇮🇳.|
 |[Tamal](https://twitter.com/mrTamall)| A very Happy Birthday, Eddie!🎉 You made me fall in love with awesome communities around the world, you are really awesome !|
 |[Carlie Hope](https://twitter.com/carliemaria28)| Happy Birthday, Eddie! Best wishes. 😆|
+|[Sreekar Tammana](https://twitter.com/Sreekartammana)| Happy Birthday, Eddie!💖Thank you for introducing me to open source world🤩|
 |||
 
