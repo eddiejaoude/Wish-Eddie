@@ -33,6 +33,7 @@ Syntax:
 |[Bony Sureliya](https://github.com/bonysureliya)| Happy birthday Eddie Wishing for your health and lot more Open Source.|
 |[Engin Diri](https://twitter.com/_ediri)| Alles Gute zum Geburtstag Eddie - Happy Birthday Eddie!|
 |[Aniket Dubey](https://twitter.com/AniketD94252873)|Happy birthday to you Eddie 🎉🎉 , You're awesome and thanks for always motivating to start open source.I'm glad to be a part of your wonderful community 😊|
+|[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
 |[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
 |[Anushka Raj](https://twitter.com/AnushCodergirl)|Happy Birthday, You Shining Star Eddie Jaoude🥳 Have a magical birthday!✨|
 |[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)|Happy Birthday man, You are a inspiration to many. Have amazing day full of PR's🥳🎉|
