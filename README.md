@@ -69,4 +69,5 @@ Syntax:
 |[Ali Fahed](https://twitter.com/AliFahed_)|Happy Birthday Eddie, Wishing you a year that's as special and awesome as you are 🎉❤️|
 |[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
 |[Obiabo](https://twitter.com/obiabo_immanuel)|Happy birthday to you Eddie❤️! Long life and prosperity , More wins , Thank you for the enlighning us in the eco system of Open Source|
+|[Shaggyyy❤️](https://twitter.com/shaggyyy03)|Happiest Birthday Eddie!🎉🎂 Wish you the very best for your journey. Hopefully will meet soon. Love From India🇮🇳.|
 |||
