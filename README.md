@@ -41,4 +41,5 @@ Syntax:
 |[Nonso Andrew](https://twitter.com/nonso_andy)| Happy Birthday, Eddie!|
 |[Aditya Painuli](https://twitter.com/aditya_painuli)| Happy birthday open source hero wish you a good health any looking forward for more contrubtion🙌🎉🎉|
 |[Shivendu Kumar](https://twitter.com/shivendu_kr_jha)| Many Many Happy Returns of the Day Eddie 🥳🎉! Wish you have a great health & career ahead!!✨🧡💓|
+|[Olanetsoft](https://twitter.com/olanetsoft)| Happy Birthday Eddie 🥳🥁 Thanks for all you do, we love you 💙💙💙|
 |||
