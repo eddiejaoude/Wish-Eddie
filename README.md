@@ -35,4 +35,4 @@ Syntax:
 |[Aniket Dubey](https://twitter.com/AniketD94252873)|Happy birthday to you Eddie 🎉🎉 , You're awesome and thanks for always motivating to start open source.I'm glad to be a part of your wonderful community 😊|
 |[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
 |[Anushka Raj](https://twitter.com/AnushCodergirl)|Happy Birthday, You Shining Star Eddie Jaoude🥳 Have a magical birthday!✨|
-|[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Cntribution was on hacktoberfest repo. I dont know how can i express my gratitude. thanks for have such a amazing community😊.|
+|[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Contribution was on hacktoberfest repo. I dont know How to express my gratitude. thanks for having such an amazing community😊.|
