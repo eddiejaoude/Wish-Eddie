@@ -66,3 +66,4 @@ Syntax:
 |[Mazhar Ansari](https://twitter.com/Intrestingboy5)|Happy Birthday, Eddie!!, Thanks for helping by creating EddieHub Community 🥳🎈🎉🎉 |
 |[Ali Fahed](https://twitter.com/AliFahed_)|Happy Birthday Eddie, Wishing you a year that's as special and awesome as you are 🎉❤️|
 |||
+|[Obiabo](https://twitter.com/obiabo_immanuel)|Happy birthday to you Eddie❤️! Long life and prosperity , More wins , Thank you for the enlighning us in the eco system of Open Source 
