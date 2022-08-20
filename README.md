@@ -76,5 +76,6 @@ Syntax:
 |[Shekhar Ranjan](https://twitter.com/MontygSharma)| Happy Birthday Eddie 🎂! Thank you for Open Source awareness 🥰. Wishing you a blessed year and a wonderful day 💫 |
 |[Atharva Ikhar](https://twitter.com/iatharva_)| Happy Birthday, Eddie🥳🎉! Thanks a lot for all the suggestions you have given me, and all the efforts which you put into your videos, Have a great birthday!|
 |[Krish Gupta](https://twitter.com/krshkodes)|Happy Birthday Eddie! 🎂 Wishing you a healthy life with lots of sleep, you do a lot for us, this is probably the year you should take care of your self too :) Happy birthday once again, have a great life ahead 🚀!|
+|[Anas Khan](https://twitter.com/anaskhan_28)| Happiest Birthday, Eddie!🥳🥳 I wish you a great journey in open source and always help others to get in 😎.|
 |||
 
