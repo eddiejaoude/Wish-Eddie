@@ -36,4 +36,5 @@ Syntax:
 |[Nihshesh Dixit](https://twitter.com/nihshx)| Happy birthday, Eddie, Thanks for motivating me always ❤️|
 |[Anushka Raj](https://twitter.com/AnushCodergirl)|Happy Birthday, You Shining Star Eddie Jaoude🥳 Have a magical birthday!✨|
 |[Yashasvi Chaurasia](https://twitter.com/Yashasvi_Cha)|Happy Birthday man, You are a inspiration to many. Have amazing day full of PR's🥳🎉|
+|[Aditya Painuli](https://twitter.com/aditya_painuli)| Happy birthday open source hero wish you a good health any looking forward for more contrubtion🙌🎉🎉|
 |||
