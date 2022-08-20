@@ -44,4 +44,5 @@ Syntax:
 |[Chandraprakash Darji](http://twitter.com/chandra_7852)| Happy Birthday, Eddie! You are the inspiration for Open Source, Remote Work, and freelancing. Thanks. |
 |[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Contribution was on hacktoberfest repo. I dont know How to express my gratitude. thanks for having such an amazing community😊.|
 |[Rajan Chauhan](https://twitter.com/rajan_chauhan_)| Happy Birthday, Eddie!|
+|[Neeraj](https://twitter.com/neeraJramachaN2)| Happy Birthday, Opensource king 👑. Hope you can motivate more people like me|
 |||
