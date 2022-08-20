@@ -17,5 +17,5 @@ Syntax:
 |[Pranshu Kumar Agrawal](https://twitter.com/pkknowsnothing)| Happiest birthday Eddie Sir. May all your wishes come true.|
 |[Krupali Trivedi](https://twitter.com/chai_really)|Happy Birthday Eddie! Thank you for the awesome community. Wishing a happy happy years ahead!|
 |[Aarya Chopkar](https://twitter.com/ChopkarAarya)| Happy birthday. Keep inspiring, continue your amazing work.|
-|||
+|[Ali Reza](https://twitter.com/webDeveloper83)|Happy Birthday Eddie! Wishing you a long life with happiness and prosperity.|
 
