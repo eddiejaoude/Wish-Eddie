@@ -11,6 +11,7 @@ Syntax:
 | Name | Message |
 |-------|-------|
 |[Pradumna Saraf](https://twitter.com/pradumna_saraf)| Happy birthday. Wishing for your health and a lot more travel.|
+|[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish You Happy birthday Eddie. Keep Rocking,Keep Aspiring, I hope we meet soon .|
 |[Kartik Gajjar](https://twitter.com/Kartikt2twt)| Happy Birthday Eddie..Lots of lovee |
 |[Dunsin](https://twitter.com/DunsinWebDev)|Happy Birthday Eddie, have a great and wonderful day|
 |[Pranshu Kumar Agrawal](https://twitter.com/pkknowsnothing)| Happiest birthday Eddie Sir. May all your wishes come true.|
@@ -40,5 +41,4 @@ Syntax:
 |[Saad](https://twitter.com/SaadTypes)| Happy Birthday, Eddie!|
 |[Nonso Andrew](https://twitter.com/nonso_andy)| Happy Birthday, Eddie!|
 |[Aditya Painuli](https://twitter.com/aditya_painuli)| Happy birthday open source hero wish you a good health any looking forward for more contrubtion🙌🎉🎉|
-|[Shivendu Kumar](https://twitter.com/shivendu_kr_jha)| Many Many Happy Returns of the Day Eddie 🥳🎉! Wish you have a great health & career ahead!!✨🧡💓|
 |||
