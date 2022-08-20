@@ -42,4 +42,5 @@ Syntax:
 |[Aditya Painuli](https://twitter.com/aditya_painuli)| Happy birthday open source hero wish you a good health any looking forward for more contrubtion🙌🎉🎉|
 |[Shivendu Kumar](https://twitter.com/shivendu_kr_jha)| Many Many Happy Returns of the Day Eddie 🥳🎉! Wish you have a great health & career ahead!!✨🧡💓|
 |[Chandraprakash Darji](http://twitter.com/chandra_7852)| Happy Birthday, Eddie! You are the inspiration for Open Source, Remote Work, and freelancing. Thanks. |
+|[Omkar Ramishte](https://twitter.com/ORamishte)| Happy Birthday, Eddie!🎉 My first Contribution was on hacktoberfest repo. I dont know How to express my gratitude. thanks for having such an amazing community😊.|
 |||
