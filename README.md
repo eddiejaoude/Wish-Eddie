@@ -51,4 +51,5 @@ Syntax:
 |[Abhishek R](https://twitter.com/Abhishe70336609|Wishing you a very happy birthday ,thankyou for everything u have done for the things u have done for the community wish you good health and happiness have a great day Eddie|
 |[Lakshya Bhasin](https://twitter.com/LakshyaBhasin7)|Happy birthday to you Eddie 🥳🎈🎉🎉.Stay Healthy and keep smiling❤️, you are such an inspiration for me. And yeah this is my first PR 😊|
 |[Aseem](https://twitter.com/aseemstwt)|Happy Birthday Eddie 🥳🎉, Thanks for motivating everyday to try out open source. I am really enjoying it & the community you're running is very friendly and awesome. Hope you have a great day and life ahead! Thankyou!|
+|[Amit](https://twitter.com/Amit_T18)| Happy Birthday, Eddie! Thanks for all your efforts and wish you a wonderful year 💙|
 |||
