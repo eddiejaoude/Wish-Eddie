@@ -52,4 +52,5 @@ Syntax:
 |[Lakshya Bhasin](https://twitter.com/LakshyaBhasin7)|Happy birthday to you Eddie 🥳🎈🎉🎉.Stay Healthy and keep smiling❤️, you are such an inspiration for me. And yeah this is my first PR 😊|
 |[Aseem](https://twitter.com/aseemstwt)|Happy Birthday Eddie 🥳🎉, Thanks for motivating everyday to try out open source. I am really enjoying it & the community you're running is very friendly and awesome. Hope you have a great day and life ahead! Thankyou!|
 |[Amit](https://twitter.com/Amit_T18)| Happy Birthday, Eddie! Thanks for all your efforts and wish you a wonderful year 💙|
+|[Tushar Gaurav](https://twitter.com/tushgaurav)| Happy Birthday, Eddie!, Appreciate the effort you put in your videos. Keep up the good work man!|
 |||
