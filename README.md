@@ -82,4 +82,5 @@ Syntax:
 |[Raj Shukla](https://twitter.com/rajshuk49989182)| Happy Birthday, Eddie! Wish you a very very happy birthday brother may you get all you want and thanks for being so open to help all of us newbies of open source|
 |[Md. Fahim Bin Amin](https://twitter.com/Fahim_FBA)| Happy Birthday, Eddie! Wishing you all the best, always!|
 |[Pratik Singh](https://twitter.com/kitarp29)|Happy Birthday,Eddie jaoude🔥 The person who got me started with Open-Source.Have a great day Eddie!!|
+|[Ruchita](https://twitter.com/_ruchita1010)| Happy Birthday Eddie 🎉🥳 Thank you for all your efforts, wish you abundant happiness and good health ✨😄|
 |||
