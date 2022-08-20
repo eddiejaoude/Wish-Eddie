@@ -2,8 +2,10 @@
 
 
 ### Contribution
-> Add a row below with your name and a birthday message.
+> Add a row at the last of the table with your name and a birthday message.
+
 Syntax: 
+
 ```md
 |[Octocat](https://twitter.com/octocat)| Happy Birthday, Eddie!|
 ```
@@ -65,5 +67,6 @@ Syntax:
 |[Soham Ratnaparkhi](https://twitter.com/SohamR_7113)| Very Happy Birthday, Eddie!. Wishing you a long and healthy life! Its because of you that I started open-source and this is my 501th contribution. Thanks a lot for what you are doing for the wonderful open-source community.|
 |[Mazhar Ansari](https://twitter.com/Intrestingboy5)|Happy Birthday, Eddie!!, Thanks for helping by creating EddieHub Community 🥳🎈🎉🎉 |
 |[Ali Fahed](https://twitter.com/AliFahed_)|Happy Birthday Eddie, Wishing you a year that's as special and awesome as you are 🎉❤️|
+|[Mr. Ånand](https://twitter.com/astrodevil_)| Happy Birthday, Eddie!🎂🎈 You made me explore open source, and I am enjoying it. Keep motivating everyone.|
 |||
 |[Obiabo](https://twitter.com/obiabo_immanuel)|Happy birthday to you Eddie❤️! Long life and prosperity , More wins , Thank you for the enlighning us in the eco system of Open Source 
