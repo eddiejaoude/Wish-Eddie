@@ -53,7 +53,4 @@ Syntax:
 |[Aseem](https://twitter.com/aseemstwt)|Happy Birthday Eddie 🥳🎉, Thanks for motivating everyday to try out open source. I am really enjoying it & the community you're running is very friendly and awesome. Hope you have a great day and life ahead! Thankyou!|
 |[Amit](https://twitter.com/Amit_T18)| Happy Birthday, Eddie! Thanks for all your efforts and wish you a wonderful year 💙|
 |[Tushar Gaurav](https://twitter.com/tushgaurav)| Happy Birthday, Eddie!, Appreciate the effort you put in your videos. Keep up the good work man!|
-|[Abbey](https://twitter.com/abbeywilltech)|Happy birthday, Eddie! Thank you for bringing me in the open source world! Wishing you good health :) |
-|[NISHANT ATTREY](https://twitter.com/nishantstwt)| Wish you Happy Birthday, Eddie!, Keep Rocking, Keep Aspiring, I hope we meet soon in real life 
-|[Nikhil](https://twitter.com/404Nikhil)|Happy birthday to you Eddie❤️! Thank you for bringing me in the open source world. Wishing you an amazing years ahead |
-|||
+|.[Mazhar Ansari](https://twitter.com/Intrestingboy5)|Happy Birthday, Eddie!!, Thanks for helping by creating EddieHub Community 🥳🎈🎉🎉 |
