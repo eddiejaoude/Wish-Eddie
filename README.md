@@ -32,4 +32,5 @@ Syntax:
 |[Olamilekan](https://twitter.com/codewithola)| Best wishes on your birthday – may you have many, many more.!!|
 |[Bony Sureliya](https://github.com/bonysureliya)| Happy birthday Eddie Wishing for your health and lot more Open Source.|
 |[Engin Diri](https://twitter.com/_ediri)| Alles Gute zum Geburtstag Eddie - Happy Birthday Eddie!|
+|[Aniket Dubey](https://twitter.com/AniketD94252873)|Happy birthday to you Eddie 🎉🎉 , You're awesome and thanks for always motivating to start open source.I'm glad to be a part of your wonderful community 😊|
 |||
