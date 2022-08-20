@@ -22,3 +22,4 @@ Syntax:
 |[Shubhangi](https://twitter.com/mshubhangi12)| Happy Birthday, Eddie! On your birthday, On your birthday, I wish you a lifetime of good health so that you can continue to inspire us and guide us during tumultuous times!! :heart_eyes: :balloon: :confetti_ball: :tada::sparkles:
 |[Krupali Trivedi](https://twitter.com/chai_really)|Happy Birthday Eddie! Thank you for the awesome community. Wishing a happy happy years ahead!|
 |[Shubhangi](https://twitter.com/mshubhangi12)| Happy Birthday, Eddie! On your birthday, On your birthday, I wish you a lifetime of good health so that you can continue to inspire us and guide us during tumultuous times!! :heart_eyes: :balloon: :confetti_ball: :tada::sparkles:
+|||
