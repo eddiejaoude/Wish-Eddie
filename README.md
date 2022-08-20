@@ -55,5 +55,4 @@ Syntax:
 |[Tushar Gaurav](https://twitter.com/tushgaurav)| Happy Birthday, Eddie!, Appreciate the effort you put in your videos. Keep up the good work man!|
 |[Abbey](https://twitter.com/abbeywilltech)|Happy birthday, Eddie! Thank you for bringing me in the open source world! Wishing you good health :) |
 |[Soham Ratnaparkhi](https://twitter.com/SohamR_7113)| Very Happy Birthday, Eddie!. Wishing you a long and healthy life! Its because of you that I started open-source and this is my 501th contribution. Thanks a lot for what you are doing for the wonderful open-source community.|
-|[Soham Ratnaparkhi](https://twitter.com/SohamR_7113)| Very Happy Birthday, Eddie!. Wishing you a long and healthy life! Its because of you that I started open-source and this is my 501th contribution. Thanks a lot for what you are doing for the wonderful open-source community.|
 |||
