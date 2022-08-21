@@ -13,7 +13,6 @@ Syntax:
 | Name | Message |
 |-------|-------|
 |[Pradumna Saraf](https://twitter.com/pradumna_saraf)| Happy birthday. Wishing for your health and a lot more travel.|
-|[Real Solly M](https://twitter.com/realsollym)|Happy Birthday Eddie! Wish you the best things in life. Continue to be an inspiration to others as you have been to me. |
 |[Kartik Gajjar](https://twitter.com/Kartikt2twt)| Happy Birthday Eddie..Lots of lovee |
 |[Dunsin](https://twitter.com/DunsinWebDev)|Happy Birthday Eddie, have a great and wonderful day|
 |[Pranshu Kumar Agrawal](https://twitter.com/pkknowsnothing)| Happiest birthday Eddie Sir. May all your wishes come true.|
@@ -93,4 +92,5 @@ Syntax:
 |[Victor Eke](https://twitter.com/victorekea)| Eddie the open sourcerer! Wishing you a memorable happy birthday, good health, and lots of love to you and your family. 💥|
 |[Franklin Ohaegbulam](https://twitter.com/frankiefab100)| Happy Birthday Eddie 🎈🎉 I wish you sound health, success and all the best. Thank you for contributing to my success in the Open source community.|
 |[Titilola Shittu](https://twitter.com/lhorla)| Happy birthday, Eddie 😇 Thank you for the community, many more good years ahead! 🎈✨|
+|[Real Solly M](https://twitter.com/realsollym)|Happy Birthday Eddie! Wish you the best things in life. Continue to be an inspiration to others as you have been to me. |
 |||
