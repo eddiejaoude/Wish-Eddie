@@ -95,5 +95,6 @@ Syntax:
 |[Deepesha Burse](https://twitter.com/3007Burse)| Happy Birthday, Eddie. Thank you for your constant motivation on contributing to Open Source. Wishing you the best day and year ahead!|
 |[Habeeb B. Oyesile](https://twitter.com/badbatunde)| Happy Birthday Eddie. Cheers to greater heights.|                                                                                                                                                                                      
 |[Real Solly M](https://twitter.com/realsollym)|Happy Birthday Eddie! Wish you the best things in life. Continue to be an inspiration to others as you have been to me. |
+|[Vinyl Davyl](https://twitter.com/Vinylchi)| Happy birthday, Eddie! Highly appreciate what you do with the community, Big Amen to your secret prayers✨|
 |||
 
