@@ -93,7 +93,7 @@ Syntax:
 |[Franklin Ohaegbulam](https://twitter.com/frankiefab100)| Happy Birthday Eddie 🎈🎉 I wish you sound health, success and all the best. Thank you for contributing to my success in the Open source community.|
 |[Titilola Shittu](https://twitter.com/lhorla)| Happy birthday, Eddie 😇 Thank you for the community, many more good years ahead! 🎈✨|
 |[Deepesha Burse](https://twitter.com/3007Burse)| Happy Birthday, Eddie. Thank you for your constant motivation on contributing to Open Source. Wishing you the best day and year ahead!|
-|[Habeeb B. Oyesile](https://twitter.com/badbatunde)| Happy Birthday Eddie. Cheers to greater heights.|                                                                                                                                                                                      |
+|[Habeeb B. Oyesile](https://twitter.com/badbatunde)| Happy Birthday Eddie. Cheers to greater heights.|                                                                                                                                                                                      
 |[Real Solly M](https://twitter.com/realsollym)|Happy Birthday Eddie! Wish you the best things in life. Continue to be an inspiration to others as you have been to me. |
 |||
 
