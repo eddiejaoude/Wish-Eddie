@@ -89,4 +89,5 @@ Syntax:
 |[Harish Srinivasan](https://twitter.com/HarishS_033)| Happy Birthday, Eddie! ,Thankyou for introducing me to the ocean of open source. Have a splendid day!!|
 |[Jaynarayan vaishnav](https://twitter.com/Jaystwtt)| Happy Birthday, Eddie! most awesome and helpful person in the opensource community 🫂. enjoy your day 🥳. i wish you all the best for yor future 🙌🏼|
 |[Aditya Singla](https://twitter.com/2802AdityA)| Happy Birthday Eddie. May all your wishes come true.|
+|[Victor Eke](https://twitter.com/victorekea)| Eddie the open sourcerer! Wishing you a memorable happy birthday, good health, and lots of love to you and your family. 💥|
 |||
