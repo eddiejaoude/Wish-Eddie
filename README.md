@@ -92,4 +92,5 @@ Syntax:
 |[Victor Eke](https://twitter.com/victorekea)| Eddie the open sourcerer! Wishing you a memorable happy birthday, good health, and lots of love to you and your family. 💥|
 |[Franklin Ohaegbulam](https://twitter.com/frankiefab100)| Happy Birthday Eddie 🎈🎉 I wish you sound health, success and all the best. Thank you for contributing to my success in the Open source community.|
 |[Titilola Shittu](https://twitter.com/lhorla)| Happy birthday, Eddie 😇 Thank you for the community, many more good years ahead! 🎈✨|
+|[Vinyl Davyl](https://twitter.com/Vinylchi)| Happy birthday, Eddie! Highly appreciate what you do with the community, Big Amen to your secret prayers✨|
 |||
